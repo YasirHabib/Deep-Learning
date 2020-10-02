@@ -1,9 +1,3 @@
-------
-
-# Zero to Deep Learning® Video Course
-
-Welcome to the Zero to Deep Learning® Video Course repository.
-
 ## Get started guide
 
 #### Clone this repository on your local computer
